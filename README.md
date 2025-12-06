@@ -1,2 +1,2 @@
-# ALS-Website
-Sample Website
+# ALSWebsite
+A Website for ALS
